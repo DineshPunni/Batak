@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class CardScript : MonoBehaviour  {
@@ -18,5 +18,4 @@ public class CardScript : MonoBehaviour  {
             GameManager.instance.SwitchTurns(GetComponentInParent<GameObject>());
         }
     }
-    
 }
