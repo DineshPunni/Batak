@@ -1,0 +1,898 @@
+fileFormatVersion: 2
+guid: d8dd05723abb47546bd48ee4b7aea866
+timeCreated: 1465831015
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WZ9Od_0
+    21300002: WZ9Od_1
+    21300004: WZ9Od_2
+    21300006: WZ9Od_3
+    21300008: WZ9Od_4
+    21300010: WZ9Od_5
+    21300012: WZ9Od_6
+    21300014: WZ9Od_7
+    21300016: WZ9Od_8
+    21300018: WZ9Od_9
+    21300020: WZ9Od_10
+    21300022: WZ9Od_11
+    21300024: WZ9Od_12
+    21300026: WZ9Od_13
+    21300028: WZ9Od_14
+    21300030: WZ9Od_15
+    21300032: WZ9Od_16
+    21300034: WZ9Od_17
+    21300036: WZ9Od_18
+    21300038: WZ9Od_19
+    21300040: WZ9Od_20
+    21300042: WZ9Od_21
+    21300044: WZ9Od_22
+    21300046: WZ9Od_23
+    21300048: WZ9Od_24
+    21300050: WZ9Od_25
+    21300052: WZ9Od_26
+    21300054: WZ9Od_27
+    21300056: WZ9Od_28
+    21300058: WZ9Od_29
+    21300060: WZ9Od_30
+    21300062: WZ9Od_31
+    21300064: WZ9Od_32
+    21300066: WZ9Od_33
+    21300068: WZ9Od_34
+    21300070: WZ9Od_35
+    21300072: WZ9Od_36
+    21300074: WZ9Od_37
+    21300076: WZ9Od_38
+    21300078: WZ9Od_39
+    21300080: WZ9Od_40
+    21300082: WZ9Od_41
+    21300084: WZ9Od_42
+    21300086: WZ9Od_43
+    21300088: WZ9Od_44
+    21300090: WZ9Od_45
+    21300092: WZ9Od_46
+    21300094: WZ9Od_47
+    21300096: WZ9Od_48
+    21300098: WZ9Od_49
+    21300100: WZ9Od_50
+    21300102: WZ9Od_51
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WZ9Od_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 29.70868}
+        - {x: -20, y: -28.29132}
+        - {x: 20, y: -28.29132}
+        - {x: 20, y: 29.70868}
+    - name: WZ9Od_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 469
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.672913, y: 29.70868}
+        - {x: -19.672913, y: -28.29132}
+        - {x: 20.327087, y: -28.29132}
+        - {x: 20.327087, y: 29.70868}
+    - name: WZ9Od_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 469
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.345825, y: 29.70868}
+        - {x: -19.345825, y: -28.29132}
+        - {x: 20.654175, y: -28.29132}
+        - {x: 20.654175, y: 29.70868}
+    - name: WZ9Od_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 469
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.518738, y: 29.70868}
+        - {x: -19.518738, y: -28.29132}
+        - {x: 21.481262, y: -28.29132}
+        - {x: 21.481262, y: 29.70868}
+    - name: WZ9Od_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 469
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.69165, y: 29.70868}
+        - {x: -19.69165, y: -28.29132}
+        - {x: 20.30835, y: -28.29132}
+        - {x: 20.30835, y: 29.70868}
+    - name: WZ9Od_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 469
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.364563, y: 29.70868}
+        - {x: -19.364563, y: -28.29132}
+        - {x: 20.635437, y: -28.29132}
+        - {x: 20.635437, y: 29.70868}
+    - name: WZ9Od_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 469
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.537476, y: 29.70868}
+        - {x: -19.537476, y: -28.29132}
+        - {x: 21.462524, y: -28.29132}
+        - {x: 21.462524, y: 29.70868}
+    - name: WZ9Od_7
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 469
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.710388, y: 29.70868}
+        - {x: -19.710388, y: -28.29132}
+        - {x: 20.289612, y: -28.29132}
+        - {x: 20.289612, y: 29.70868}
+    - name: WZ9Od_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 469
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.3833, y: 29.70868}
+        - {x: -19.3833, y: -28.29132}
+        - {x: 20.6167, y: -28.29132}
+        - {x: 20.6167, y: 29.70868}
+    - name: WZ9Od_9
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 469
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.556213, y: 29.70868}
+        - {x: -19.556213, y: -28.29132}
+        - {x: 21.443787, y: -28.29132}
+        - {x: 21.443787, y: 29.70868}
+    - name: WZ9Od_10
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 469
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.729126, y: 29.70868}
+        - {x: -19.729126, y: -28.29132}
+        - {x: 20.270874, y: -28.29132}
+        - {x: 20.270874, y: 29.70868}
+    - name: WZ9Od_11
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 469
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.402039, y: 29.70868}
+        - {x: -19.402039, y: -28.29132}
+        - {x: 20.597961, y: -28.29132}
+        - {x: 20.597961, y: 29.70868}
+    - name: WZ9Od_12
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 469
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.574951, y: 29.70868}
+        - {x: -19.574951, y: -28.29132}
+        - {x: 21.425049, y: -28.29132}
+        - {x: 21.425049, y: 29.70868}
+    - name: WZ9Od_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 29.417374}
+        - {x: -20, y: -28.582626}
+        - {x: 20, y: -28.582626}
+        - {x: 20, y: 29.417374}
+    - name: WZ9Od_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 351
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.672913, y: 29.417374}
+        - {x: -19.672913, y: -28.582626}
+        - {x: 20.327087, y: -28.582626}
+        - {x: 20.327087, y: 29.417374}
+    - name: WZ9Od_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 351
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.345825, y: 29.417374}
+        - {x: -19.345825, y: -28.582626}
+        - {x: 20.654175, y: -28.582626}
+        - {x: 20.654175, y: 29.417374}
+    - name: WZ9Od_16
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 351
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.518738, y: 29.417374}
+        - {x: -19.518738, y: -28.582626}
+        - {x: 21.481262, y: -28.582626}
+        - {x: 21.481262, y: 29.417374}
+    - name: WZ9Od_17
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 351
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.69165, y: 29.417374}
+        - {x: -19.69165, y: -28.582626}
+        - {x: 20.30835, y: -28.582626}
+        - {x: 20.30835, y: 29.417374}
+    - name: WZ9Od_18
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 351
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.364563, y: 29.417374}
+        - {x: -19.364563, y: -28.582626}
+        - {x: 20.635437, y: -28.582626}
+        - {x: 20.635437, y: 29.417374}
+    - name: WZ9Od_19
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 351
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.537476, y: 29.417374}
+        - {x: -19.537476, y: -28.582626}
+        - {x: 21.462524, y: -28.582626}
+        - {x: 21.462524, y: 29.417374}
+    - name: WZ9Od_20
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 351
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.710388, y: 29.417374}
+        - {x: -19.710388, y: -28.582626}
+        - {x: 20.289612, y: -28.582626}
+        - {x: 20.289612, y: 29.417374}
+    - name: WZ9Od_21
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 351
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.3833, y: 29.417374}
+        - {x: -19.3833, y: -28.582626}
+        - {x: 20.6167, y: -28.582626}
+        - {x: 20.6167, y: 29.417374}
+    - name: WZ9Od_22
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 351
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.556213, y: 29.417374}
+        - {x: -19.556213, y: -28.582626}
+        - {x: 21.443787, y: -28.582626}
+        - {x: 21.443787, y: 29.417374}
+    - name: WZ9Od_23
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 351
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.729126, y: 29.417374}
+        - {x: -19.729126, y: -28.582626}
+        - {x: 20.270874, y: -28.582626}
+        - {x: 20.270874, y: 29.417374}
+    - name: WZ9Od_24
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 351
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.402039, y: 29.417374}
+        - {x: -19.402039, y: -28.582626}
+        - {x: 20.597961, y: -28.582626}
+        - {x: 20.597961, y: 29.417374}
+    - name: WZ9Od_25
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 351
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.574951, y: 29.417374}
+        - {x: -19.574951, y: -28.582626}
+        - {x: 21.425049, y: -28.582626}
+        - {x: 21.425049, y: 29.417374}
+    - name: WZ9Od_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 29.12606}
+        - {x: -20, y: -28.87394}
+        - {x: 20, y: -28.87394}
+        - {x: 20, y: 29.12606}
+    - name: WZ9Od_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 233
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.672913, y: 29.12606}
+        - {x: -19.672913, y: -28.87394}
+        - {x: 20.327087, y: -28.87394}
+        - {x: 20.327087, y: 29.12606}
+    - name: WZ9Od_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 233
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.345825, y: 29.12606}
+        - {x: -19.345825, y: -28.87394}
+        - {x: 20.654175, y: -28.87394}
+        - {x: 20.654175, y: 29.12606}
+    - name: WZ9Od_29
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 233
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.518738, y: 29.12606}
+        - {x: -19.518738, y: -28.87394}
+        - {x: 21.481262, y: -28.87394}
+        - {x: 21.481262, y: 29.12606}
+    - name: WZ9Od_30
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 233
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.69165, y: 29.12606}
+        - {x: -19.69165, y: -28.87394}
+        - {x: 20.30835, y: -28.87394}
+        - {x: 20.30835, y: 29.12606}
+    - name: WZ9Od_31
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 233
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.364563, y: 29.12606}
+        - {x: -19.364563, y: -28.87394}
+        - {x: 20.635437, y: -28.87394}
+        - {x: 20.635437, y: 29.12606}
+    - name: WZ9Od_32
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 233
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.537476, y: 29.12606}
+        - {x: -19.537476, y: -28.87394}
+        - {x: 21.462524, y: -28.87394}
+        - {x: 21.462524, y: 29.12606}
+    - name: WZ9Od_33
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 233
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.710388, y: 29.12606}
+        - {x: -19.710388, y: -28.87394}
+        - {x: 20.289612, y: -28.87394}
+        - {x: 20.289612, y: 29.12606}
+    - name: WZ9Od_34
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 233
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.3833, y: 29.12606}
+        - {x: -19.3833, y: -28.87394}
+        - {x: 20.6167, y: -28.87394}
+        - {x: 20.6167, y: 29.12606}
+    - name: WZ9Od_35
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 233
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.556213, y: 29.12606}
+        - {x: -19.556213, y: -28.87394}
+        - {x: 21.443787, y: -28.87394}
+        - {x: 21.443787, y: 29.12606}
+    - name: WZ9Od_36
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 233
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.729126, y: 29.12606}
+        - {x: -19.729126, y: -28.87394}
+        - {x: 20.270874, y: -28.87394}
+        - {x: 20.270874, y: 29.12606}
+    - name: WZ9Od_37
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 233
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.402039, y: 29.12606}
+        - {x: -19.402039, y: -28.87394}
+        - {x: 20.597961, y: -28.87394}
+        - {x: 20.597961, y: 29.12606}
+    - name: WZ9Od_38
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 233
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.574951, y: 29.12606}
+        - {x: -19.574951, y: -28.87394}
+        - {x: 21.425049, y: -28.87394}
+        - {x: 21.425049, y: 29.12606}
+    - name: WZ9Od_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 30.334751}
+        - {x: -20, y: -28.665249}
+        - {x: 20, y: -28.665249}
+        - {x: 20, y: 30.334751}
+    - name: WZ9Od_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 115
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.672913, y: 30.334751}
+        - {x: -19.672913, y: -28.665249}
+        - {x: 20.327087, y: -28.665249}
+        - {x: 20.327087, y: 30.334751}
+    - name: WZ9Od_41
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 115
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.345825, y: 30.334751}
+        - {x: -19.345825, y: -28.665249}
+        - {x: 20.654175, y: -28.665249}
+        - {x: 20.654175, y: 30.334751}
+    - name: WZ9Od_42
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 115
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.518738, y: 30.334751}
+        - {x: -19.518738, y: -28.665249}
+        - {x: 21.481262, y: -28.665249}
+        - {x: 21.481262, y: 30.334751}
+    - name: WZ9Od_43
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 115
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.69165, y: 30.334751}
+        - {x: -19.69165, y: -28.665249}
+        - {x: 20.30835, y: -28.665249}
+        - {x: 20.30835, y: 30.334751}
+    - name: WZ9Od_44
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 115
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.364563, y: 30.334751}
+        - {x: -19.364563, y: -28.665249}
+        - {x: 20.635437, y: -28.665249}
+        - {x: 20.635437, y: 30.334751}
+    - name: WZ9Od_45
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 115
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.537476, y: 30.334751}
+        - {x: -19.537476, y: -28.665249}
+        - {x: 20.462524, y: -28.665249}
+        - {x: 21.462524, y: -27.665249}
+        - {x: 21.462524, y: 30.334751}
+    - name: WZ9Od_46
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 115
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.710388, y: 30.334751}
+        - {x: -19.710388, y: -27.665249}
+        - {x: -18.710388, y: -28.665249}
+        - {x: 19.289612, y: -28.665249}
+        - {x: 20.289612, y: -27.665249}
+        - {x: 20.289612, y: 30.334751}
+    - name: WZ9Od_47
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 115
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.3833, y: 30.334751}
+        - {x: -19.3833, y: -27.665249}
+        - {x: -17.3833, y: -28.665249}
+        - {x: 19.6167, y: -28.665249}
+        - {x: 20.6167, y: -27.665249}
+        - {x: 20.6167, y: 30.334751}
+    - name: WZ9Od_48
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 115
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.556213, y: 30.334751}
+        - {x: -19.556213, y: -28.665249}
+        - {x: 21.443787, y: -28.665249}
+        - {x: 21.443787, y: 30.334751}
+    - name: WZ9Od_49
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 115
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.729126, y: 30.334751}
+        - {x: -19.729126, y: -27.665249}
+        - {x: -17.729126, y: -28.665249}
+        - {x: 19.270874, y: -28.665249}
+        - {x: 20.270874, y: -27.665249}
+        - {x: 20.270874, y: 30.334751}
+    - name: WZ9Od_50
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 115
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.402039, y: 30.334751}
+        - {x: -19.402039, y: -27.665249}
+        - {x: -17.402039, y: -28.665249}
+        - {x: 19.597961, y: -28.665249}
+        - {x: 20.597961, y: -27.665249}
+        - {x: 20.597961, y: 30.334751}
+    - name: WZ9Od_51
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 115
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.574951, y: 30.334751}
+        - {x: -19.574951, y: -28.665249}
+        - {x: 21.425049, y: -28.665249}
+        - {x: 21.425049, y: 30.334751}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
