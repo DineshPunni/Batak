@@ -9,13 +9,16 @@ public class CardScript : MonoBehaviour  {
     public Symbol CardSymbol;
 
 
+    void Start()
+    {
+        gameObject.name = CardSymbol + " " + value;
+    }
+
    void OnMouseOver()
     {
         if (Input.GetKeyDown(KeyCode.Mouse0) && GetComponentInParent<PlayerScript>().hasTurn)
         {
-            Debug.Log(value + " " + CardSymbol);
-            gameObject.transform.position = Vector3.zero;
-            GameManager.instance.SwitchTurns(GetComponentInParent<GameObject>());
+            GameRules.instance.PlayCard(this.gameObject);
         }
     }
 }

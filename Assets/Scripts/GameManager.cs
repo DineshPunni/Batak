@@ -42,7 +42,10 @@ public class GameManager : MonoBehaviour {
         }
     }
 
-  
+  public void test(GameObject aa)
+    {
+        Debug.Log("a");
+    }
 
     private void InitializeDeck()
     {
@@ -69,12 +72,7 @@ public class GameManager : MonoBehaviour {
             tempCard.GetComponent<CardScript>().CardSymbol = CardScript.Symbol.Spade;
     }
 
-    public void SwitchTurns(GameObject Player)
+    public void SwitchTurns()
     {
-        if(Player == Players[3])
-        {
-            Players[0].gameObject.GetComponent<PlayerScript>().hasTurn = false;
-            Players[0].gameObject.GetComponent<PlayerScript>().hasTurn = true;
-        }
     }
 }

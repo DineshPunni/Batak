@@ -114,7 +114,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PlayerHand: []
   isHorizontal: 1
-  hasTurn: 0
+  hasTurn: 1
 --- !u!4 &361368389
 Transform:
   m_ObjectHideFlags: 0
@@ -136,6 +136,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 844152796}
   - 114: {fileID: 844152795}
+  - 114: {fileID: 844152797}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -226,6 +227,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
+--- !u!114 &844152797
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 844152794}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92eac8608668b914d83a9cbd79eb8c1d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  turns: 0
+  firstCard: {fileID: 0}
+  CardsOut: []
 --- !u!1 &1071853553
 GameObject:
   m_ObjectHideFlags: 0
@@ -369,7 +384,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PlayerHand: []
   isHorizontal: 0
-  hasTurn: 0
+  hasTurn: 1
 --- !u!4 &1125810363
 Transform:
   m_ObjectHideFlags: 0
@@ -411,7 +426,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PlayerHand: []
   isHorizontal: 0
-  hasTurn: 0
+  hasTurn: 1
 --- !u!4 &1226544539
 Transform:
   m_ObjectHideFlags: 0
@@ -511,7 +526,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PlayerHand: []
   isHorizontal: 1
-  hasTurn: 0
+  hasTurn: 1
 --- !u!4 &1450506292
 Transform:
   m_ObjectHideFlags: 0
