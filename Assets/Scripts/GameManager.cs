@@ -74,5 +74,6 @@ public class GameManager : MonoBehaviour {
 
     public void SwitchTurns()
     {
+		/* commit test*/
     }
 }
