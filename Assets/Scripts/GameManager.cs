@@ -74,6 +74,8 @@ public class GameManager : MonoBehaviour {
 
     public void SwitchTurns()
     {
-		/* commit test*/
+		/* Dann könnte ich nämlich hier sagen falls i.playerhand.size < i+1.playerhand.size dann
+         i.playerhand.hasTurn=false und i+1.playerhand.hasTurn=true über dem ganzen noch eine 
+         if-Abfrage, falls i=5, dann nextround*/
     }
 }

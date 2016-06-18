@@ -22,7 +22,9 @@ public class CardScript : MonoBehaviour  {
         {
             GameRules.instance.PlayCard(this.gameObject);
             cardPlace.Play();
-            
+            /* Ist es möglich das wir hier eine Dekrementierung von size einfügen,
+             denn wenn wir eine Karte spielen ist die size von PlayerHand immernoch 13*/
+
         }
     }
 }
