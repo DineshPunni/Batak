@@ -8,7 +8,6 @@ public class PlayerScript : MonoBehaviour {
     public bool isHorizontal;
     public bool hasTurn;
 
-
     void Start()
     {
         PlayerPos = transform.position;

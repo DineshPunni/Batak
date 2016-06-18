@@ -2,6 +2,8 @@
 using System.Collections;
 using System.Collections.Generic;
 
+public enum Symbol { Heart, Diamond, Club, Spade };
+
 public class GameManager : MonoBehaviour {
 
     public static GameManager instance = null;
@@ -42,11 +44,6 @@ public class GameManager : MonoBehaviour {
         }
     }
 
-  public void test(GameObject aa)
-    {
-        Debug.Log("a");
-    }
-
     private void InitializeDeck()
     {
         for(int i=0; i<52; i++)
@@ -62,14 +59,14 @@ public class GameManager : MonoBehaviour {
 
     private void SetSymbol(int i, GameObject tempCard)
     {
-        if(i <= 13)
-            tempCard.GetComponent<CardScript>().CardSymbol = CardScript.Symbol.Heart;
-        else if (i <= 26)
-            tempCard.GetComponent<CardScript>().CardSymbol = CardScript.Symbol.Diamond;
-        else if (i <= 39)
-            tempCard.GetComponent<CardScript>().CardSymbol = CardScript.Symbol.Club;
+        if(i <= 12)
+            tempCard.GetComponent<CardScript>().CardSymbol = Symbol.Heart;
+        else if (i <= 25)
+            tempCard.GetComponent<CardScript>().CardSymbol = Symbol.Diamond;
+        else if (i <= 38)
+            tempCard.GetComponent<CardScript>().CardSymbol = Symbol.Club;
         else
-            tempCard.GetComponent<CardScript>().CardSymbol = CardScript.Symbol.Spade;
+            tempCard.GetComponent<CardScript>().CardSymbol = Symbol.Spade;
     }
 
     public void SwitchTurns()
